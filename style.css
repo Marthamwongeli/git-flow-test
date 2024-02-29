@@ -6,6 +6,10 @@ body{
 }
 #topnav{
     display: flex;
+    margin-left: 200px;
+}
+#ring{
+    
 }
 #sign{
     background-color: black;
@@ -46,6 +50,51 @@ body{
     padding: 10px;
     
 }
+
+
+.body1{
+    font-family: sans-serif;
+    margin-left: 100px;
+    cursor: zoom-in ;
+
+}
+.container{
+    
+    float: inline-start;
+    margin-top: 200px;
+    margin-right: 200px;
+    margin-bottom:  200px;
+    margin-left: 250px;
+}
+
+#front{
+    font-weight: bold;
+    font-size: 55px;
+}
+
+#btn1{
+    border:none;
+    background-color: rgb(174, 243, 71);
+    padding: 10px 15px;
+    cursor: zoom-in;
+    
+}
+#btn2{
+    border: none;
+    cursor: zoom-in;
+}
+#handImg{
+    margin-left: 210px;
+    width: 80px;
+
+}
+#arrow{
+    width: 30px;
+border: none;
+    
+    
+}
+
 
 
 
